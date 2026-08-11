@@ -8,7 +8,7 @@
 ### 🚀 About Me
 - 🎓 B.E. in Computer Science & Engineering from **Shri Madhwa Vadiraja Institute of Technology and Management** (CGPA: **9.14/10**)
 - 💼 **Software Engineer Intern** at Microdegree — built production full-stack web applications with Next.js, Spring Boot, and PostgreSQL.
-- 🌐 Explore my **[Live Interactive Portfolio Website](https://shravya032.github.io/PortFolio/)**
+- 🌐 Explore my **[Live Interactive Portfolio Website]([https://shravya032.github.io/PortFolio/](https://port-folio-phi-rust.vercel.app/))**
 - 🤝 Open to Software Engineering & Full-Stack Development opportunities!
 
 ---
