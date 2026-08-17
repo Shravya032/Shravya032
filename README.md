@@ -17,20 +17,44 @@
 
 **Languages:** 
 Java, Python, C, JavaScript, TypeScript 
+
+---
+
 **Frontend:**
 React.js, Next.js, HTML5, CSS3 
+
+---
+
 **Backend:**
 Spring Boot, Hibernate, JDBC, Servlets, JSP, REST APIs, Maven, Node.js, Express.js 
+
+---
+
 **Databases & Platforms:**
 MySQL, MongoDB, Supabase, Netlify, Vercel, Render 
+
+---
+
 **Machine Learning:**
 Python, OpenCV, MediaPipe, SVM 
+
+---
+
 **DevOps & Cloud:** 
 Git, GitHub, CI/CD, Linux Fundamentals, Cloud Fundamentals, AWS 
+
+---
+
 **Core CS:** 
 Data Structures, OOP, DBMS 
+
+---
+
 **API & Backend Validation:**
 REST API design, development, and testing; hands-on experience with Postman for API request/response validation. 
+
+---
+
 **Soft Skills:**
 Communication, Team Collaboration, Mentoring
 
